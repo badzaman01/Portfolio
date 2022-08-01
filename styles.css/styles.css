@@ -1,0 +1,46 @@
+body,
+html {
+  height: 100%;
+  margin: 0px;
+  background-color: grey;
+}
+
+nav li {
+  display: inline;
+  margin: 20px;
+  background-color: beige;
+}
+nav ul {
+  background-color: azure;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  list-style-type: none;
+}
+
+nav a {
+  color: firebrick;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: rgb(14, 12, 12);
+}
+
+img {
+  width: 500px;
+  height: 300px;
+  object-fit: fill;
+  margin-right: 10px;
+}
+
+.header-text {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 50px;
+  background-color: white;
+  background-image: url("../images/vista-desde-lo-alto.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
