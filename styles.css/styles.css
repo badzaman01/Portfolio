@@ -44,3 +44,21 @@ img {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+#right_pane {
+  margin: auto;
+  float: right;
+  font-size: 20px;
+  border-style: dotted;
+  font-size: 20px;
+}
+
+#indent {
+  text-indent: 38px;
+  font-size: 30px;
+}
+
+.form {
+  margin-top: 60px;
+  text-align: center;
+}
